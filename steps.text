@@ -1,0 +1,23 @@
+TO DEPLOYER
+--------------------
+watch this video
+https://www.youtube.com/watch?v=rtxMYRLMxO0&t=255s
+
+to variables : https://www.youtube.com/watch?v=3JVdRU0En3U
+Found image on Image/capture d'ecrant >>var_Heroku.png
+
+BLOGS:
+=>https://www.youtube.com/watch?v=rtxMYRLMxO0&t=255s
+=>https://medium.com/geekculture/deploy-strapi-to-heroku-f75fe9e121c0
+=>https://strapi.io/blog/deploying-a-strapi-api-on-heroku
+
+ERRORS FACING:
+ fixe Engine (node js and npm)
+
+ ------------------
+ to run developpement mode type:
+ npx strapi dev
+
+blog: https://strapi.io/blog/add-cloudinary-support-to-your-strapi-application
+ url to fetch blog strapi cloudinary post content image:
+ http://localhost:1337/api/blogs?populate=*
